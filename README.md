@@ -1,4 +1,4 @@
-# Website Pemeliharaan Aset Desa
+# Website Manajemen Aset Desa
 
 ## Deskripsi
 
@@ -8,6 +8,8 @@ Website ini dirancang untuk membantu desa dalam mengelola dan memelihara aset-as
 
 - **Daftar Aset**: Menampilkan daftar semua aset desa.
 - **Detail Aset**: Menampilkan detail aset termasuk tanggal pembelian, nilai aset, dan kondisi terkini.
+- **Akumulasi Penyusutan Aset**: Membantu akumulasi nilai data aset secara otomatis.
+- **Daftar Penyusutan**: Menampilkan tabel data penyusutan terdiri dari harga residu/sisa, umur manfaat, dan biaya depresiasi. 
 - **Jadwal Pemeliharaan**: Menyediakan jadwal pemeliharaan untuk setiap aset.
 - **Laporan Pemeliharaan**: Membuat laporan pemeliharaan yang mencakup detail biaya, tanggal pemeliharaan, dan keterangan lainnya.
 
